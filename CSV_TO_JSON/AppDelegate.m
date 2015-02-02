@@ -15,7 +15,7 @@
 @implementation AppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
-    [window center];
+    
 }
 
 - (void)applicationWillTerminate:(NSNotification *)aNotification {
